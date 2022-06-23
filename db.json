@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": "jySDU",
+      "longLink": "https://www.google.com",
+      "shortedLink": "http://localhost:3000#/r/jySDU"
+    },
+    {
+      "id": "cIecU",
+      "longLink": "https://moonsters.ivank.net/",
+      "shortedLink": "http://localhost:3000#/r/cIecU"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
