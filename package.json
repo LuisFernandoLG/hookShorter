@@ -3,6 +3,8 @@
   "private": true,
   "version": "0.0.0",
   "scripts": {
+    "dev2": "concurrently npm:dev npm:server",
+    "build2": "concurrently npm:build npm:server",
     "dev": "vite",
     "build": "vite build",
     "preview": "vite preview",
